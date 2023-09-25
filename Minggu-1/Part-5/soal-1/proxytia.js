@@ -4,7 +4,8 @@
 - Variabel peran harus memiliki isi data, bila nama kosong, pemain akan diberikan peringatan berupa "nama wajib diisi".
 - Bila kosong pemain akan diberikan peringatan berupa "Pilih Peranmu untuk memulai game". 
 - Terdapat 3 peran berbeda yaitu Ksatria, Tabib, dan Penyihir. 
-===========================TUGAS============================
+
+===========================       TUGAS         ============================
 - Tugas Anda adalah untuk membuat program yang mengecek isi variabel nama dan peran serta mengeluarkan respon sesuai isi variabel tersebut.
 - Ada 4 jenis respons sesuai dengan 3 jenis peran yaitu:
 1. halo Ksatria ${nama} , kamu dapat menyerang dengan senjatamu!
@@ -17,8 +18,7 @@ mudah dalam memasukan variabel ke dalam string
 tapi tanpa backtick juga ga masalah sih yg penting output sesuai
 */
 
-// algoritma
-// isi algoritma mu disini (AWAS KALO GA DI ISI!!!!)
+/*==========================      ALGORITMA      =========================
 /*
 1.  Buat variabel let untuk menampung nama dan peran
 2.  Pengecekan apakah nama kosong atau tidak
